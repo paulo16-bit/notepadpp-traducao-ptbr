@@ -4,8 +4,8 @@ Este repositório contém traduções não-oficiais de partes do manual de usuá
 
 ## Seções Traduzidas
 
-- [Começando](começando.md)
-- [Trabalhando com Arquivos](trabalhandoComArquivos.md)
+- [Começando](Começando.pdf)
+- [Trabalhando com Arquivos](Trabalhando com Arquivos.pdf)
 
 ## Aviso
 
