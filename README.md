@@ -5,7 +5,7 @@ Este repositório contém traduções não-oficiais de partes do manual de usuá
 ## Seções Traduzidas
 
 - [Começando](Começando.pdf)
-- [Trabalhando com Arquivos](Trabalhando com Arquivos.pdf)
+- [Trabalhando com Arquivos](TrabalhandoComArquivos.pdf)
 
 ## Aviso
 
